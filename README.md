@@ -1,5 +1,5 @@
-# coding-guru-1234
-Welcome to the Coding Guru 1234 project – an exceptional web endeavor that brings together a blend of creativity, functionality, and an immersive user experience. Dive into the intricacies of the project and embark on a journey of innovation and design.
+# Global Indian International School (Clone)
+Welcome to the Global Indian International School (Clone) project – an exceptional web endeavor that brings together a blend of creativity, functionality, and an immersive user experience. Dive into the intricacies of the project and embark on a journey of innovation and design.
 
 Members
 1. Gulshaba Parveen
